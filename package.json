@@ -2,8 +2,6 @@
   "version": "1.0.0",
   "description": "i3logix Code Challenge",
   "scripts": {
-    "test-check": "mocha -w --require @babel/register ./test/CheckWriter/**",
-    "test-gol": "mocha -w --require @babel/register ./test/GameOfLife/**",
     "test-poker": "mocha -w --require @babel/register ./test/PokerHand/**"
   },
   "author": "i3logix",
